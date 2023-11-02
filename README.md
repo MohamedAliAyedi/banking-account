@@ -1,1 +1,1 @@
-# banking-account
+# SpringProject
